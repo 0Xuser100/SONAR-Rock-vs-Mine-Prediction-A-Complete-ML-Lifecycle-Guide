@@ -1,6 +1,17 @@
 # SONAR Rock vs Mine Prediction
 
 This project focuses on classifying SONAR signals to distinguish between **Rocks (R)** and **Mines (M)** using machine learning techniques. The dataset contains 208 samples, each with 60 features representing the energy levels of sonar signals at different frequencies.
+# README
+
+
+## Kaggle Notebook
+Explore the detailed implementation of the project in this Kaggle Notebook:
+[Sonar Rock vs Mine Prediction: A Complete ML Lifecycle](https://www.kaggle.com/code/triblex/sonar-rock-vs-mine-prediction-a-complete-ml-lifec)
+
+## Kaggle Dataset
+Access the dataset used in the project here:
+[Underwater Sonar Signals: Rocks and Mines Dataset](https://www.kaggle.com/datasets/triblex/underwater-sonar-signals-rocks-and-mines-dataset)
+
 
 ## Table of Contents
 - [Dataset](#dataset)
