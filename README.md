@@ -5,11 +5,11 @@ This project focuses on classifying SONAR signals to distinguish between **Rocks
 
 
 ## Kaggle Notebook
-Explore the detailed implementation of the project in this Kaggle Notebook:
+Explore the detailed implementation of my project in this Kaggle Notebook:
 [Sonar Rock vs Mine Prediction: A Complete ML Lifecycle](https://www.kaggle.com/code/triblex/sonar-rock-vs-mine-prediction-a-complete-ml-lifec)
 
 ## Kaggle Dataset
-Access the dataset used in the project here:
+Access the dataset that i publish on kaggle:
 [Underwater Sonar Signals: Rocks and Mines Dataset](https://www.kaggle.com/datasets/triblex/underwater-sonar-signals-rocks-and-mines-dataset)
 
 
